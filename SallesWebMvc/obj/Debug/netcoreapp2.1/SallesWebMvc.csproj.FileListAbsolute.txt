@@ -34,4 +34,3 @@ C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\Salles
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.pdb
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.genruntimeconfig.cache
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\SallesWebMvc.csproj.CopyComplete
-C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamento\Index.cshtml.g.cs
