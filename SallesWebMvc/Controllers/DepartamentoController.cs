@@ -9,16 +9,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SalesWebMvc.Models;
-//using SalesWebMvc.Models;
+using SallesWebMvc.Models;
+//using SallesWebMvc.Models;
 
-namespace SalesWebMvc.Controllers
+namespace SallesWebMvc.Controllers
 {
     public class departamentosController : Controller
     {
-        private readonly SalesWebMvcContext _context;
+        private readonly SallesWebMvcContext _context;
 
-        public departamentosController(SalesWebMvcContext context)
+        public departamentosController(SallesWebMvcContext context)
         {
             _context = context;
         }
