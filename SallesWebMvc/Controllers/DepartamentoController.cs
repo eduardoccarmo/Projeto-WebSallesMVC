@@ -47,7 +47,7 @@ namespace SallesWebMvc.Controllers
             return View(departamento);
         }
 
-        // GET: departamentos/Create
+        //GET: departamentos/Create
         public IActionResult Create()
         {
             return View();
@@ -58,7 +58,7 @@ namespace SallesWebMvc.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name")] Departamento departamento)
+        public async Task<IActionResult> Create([Bind("Id,Nome")] Departamento departamento)
         {
             if (ModelState.IsValid)
             {
@@ -90,7 +90,7 @@ namespace SallesWebMvc.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Departamento departamento)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome")] Departamento departamento)
         {
             if (id != departamento.Id)
             {
