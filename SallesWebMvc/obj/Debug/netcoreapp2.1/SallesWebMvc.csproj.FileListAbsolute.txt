@@ -39,3 +39,4 @@ C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\Salles
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
 C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
+C:\Users\eduar\Documents\Curso Nélio Alves (C# OOP)\Projeto\SallesWebMvc\SallesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Vendedor\Index.cshtml.g.cs
